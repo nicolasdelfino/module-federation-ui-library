@@ -1,0 +1,29 @@
+.button {
+  background: rgb(0, 0, 0);
+  color: white;
+  border: none;
+  padding: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: inherit;
+  border-radius: 5px;
+  text-transform: uppercase;
+  border: 2px solid transparent;
+}
+
+button:hover {
+  border: 2px solid rgba(255, 255, 255, 0.4);
+}
+
+.confirm {
+  color: rgb(56, 224, 0);
+}
+
+.danger {
+  color: rgb(255, 0, 0);
+}
+
+.navItem {
+  background: rgb(243, 243, 243);
+  color: rgb(52, 52, 52);
+}

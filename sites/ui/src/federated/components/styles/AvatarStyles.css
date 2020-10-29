@@ -1,0 +1,43 @@
+.avatarBox {
+  height: 100px;
+  background: rgb(236, 236, 236);
+  display: flex;
+  border-radius: 5px;
+}
+
+.avatarWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatarCircle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border-radius: 999px;
+  height: 60%;
+  width: 60%;
+  background: rgb(211, 211, 211);
+  color: rgb(233, 233, 233);
+  font-size: x-large;
+}
+
+.avatarInfo {
+  padding: 20px;
+  border-radius: 5px;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.4rem;
+  color: rgb(122, 122, 122);
+}

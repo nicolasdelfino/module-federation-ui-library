@@ -1,0 +1,21 @@
+.box {
+  display: flex;
+  padding: 20px;
+  font-size: 1.3rem;
+  font-weight: 600;
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+.regular {
+  border: 1px solid rgb(233, 233, 233);
+  border-left: 10px solid rgb(209, 209, 209);
+}
+
+.prompt {
+  background: rgb(245, 208, 0);
+  color: black;
+  border: 1px solid rgb(230, 195, 0);
+  border-left: 10px solid rgb(235, 172, 0);
+}

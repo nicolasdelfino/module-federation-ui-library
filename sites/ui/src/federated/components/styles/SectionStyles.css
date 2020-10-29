@@ -1,0 +1,6 @@
+.section {
+  background: rgb(247, 247, 247);
+  border: 1px dashed lightgray;
+  padding: 20px;
+  border-radius: 5px;
+}

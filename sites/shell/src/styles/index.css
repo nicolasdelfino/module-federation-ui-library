@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(204, 204, 204);
+  border-bottom-width: 0px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  padding: 20px;
+}
